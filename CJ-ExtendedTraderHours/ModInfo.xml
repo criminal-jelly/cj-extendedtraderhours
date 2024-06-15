@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<Name value="CjExtendedTraderHours" />
+	<DisplayName value="Crim's Extended Trader Hours" />
+	<Description value="This modlet extends trader opening hours." />
+	<Author value="CriminalJelly" />
+	<Version value="1.0.0.1" />
+	<Website value="" />
+</xml>
